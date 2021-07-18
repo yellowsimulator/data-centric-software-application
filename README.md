@@ -1,2 +1,2 @@
-# data-centric-software-application
+# Developing Data Centric Software Application
 Course materials
