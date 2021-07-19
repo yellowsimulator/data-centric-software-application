@@ -1,2 +1,10 @@
 .DS_Store
 venv
+*.aux
+*.log
+*.out
+*.tex
+*.synctex.gz
+*.toc
+*.vrb
+*.nav
