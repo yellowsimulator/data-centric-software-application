@@ -8,3 +8,6 @@ venv
 *.toc
 *.vrb
 *.nav
+*.snm
+*.tex
+literature
