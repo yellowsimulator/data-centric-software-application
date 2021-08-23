@@ -11,3 +11,6 @@ pytest==6.2.4
 emojis==0.6.0
 progress==1.5
 numpy
+pandas-profiling==3.0.0
+ipywidgets==7.6.3
+sweetviz==2.1.3
