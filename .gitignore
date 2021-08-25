@@ -1,5 +1,6 @@
 .DS_Store
 venv
+materials
 *.aux
 *.log
 *.out
@@ -10,9 +11,3 @@ venv
 *.nav
 *.snm
 *.tex
-literature
-#user_data
-#song_data
-data
-materials
-presentations
