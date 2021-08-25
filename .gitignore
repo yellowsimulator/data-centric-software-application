@@ -11,6 +11,8 @@ venv
 *.snm
 *.tex
 literature
-log_data
-song_data
+#user_data
+#song_data
 data
+materials
+presentations
